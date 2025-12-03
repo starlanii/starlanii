@@ -9,3 +9,6 @@
 
 ## 💼LINKEDIN PROFILE: https://www.linkedin.com/in/laragiljiménez/<br/>
 ## 🖥️TRYHACKME PROFILE: https://tryhackme.com/p/lanii
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starlanii)](https://github.com/starlanii/github-readme-stats)
